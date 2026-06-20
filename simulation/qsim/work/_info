@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Me\Daneshga\Az Memary\Quartus Projects\Azmayesh_Dovvom\simulation\qsim
+vAzmayesh_Dovvom_Without_En
+Z1 !s100 6KnUZ6eT<VBVC]dfbkP[O3
+Z2 IN6J`iUDSi]]U^X;jk0Z?B0
+Z3 ViacdoQLB@;O:6I[PV4ik<2
+Z4 dD:\Me\Daneshga\Az Memary\Quartus Projects\Azmayesh_Dovvom\simulation\qsim
+Z5 w1780381796
+Z6 8Azmayesh_Dovvom_Without_En.vo
+Z7 FAzmayesh_Dovvom_Without_En.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Azmayesh_Dovvom_Without_En.vo|
+Z10 o-work work -O0
+Z11 n@azmayesh_@dovvom_@without_@en
+!i10b 1
+!s85 0
+Z12 !s108 1780381796.515000
+Z13 !s107 Azmayesh_Dovvom_Without_En.vo|
+!s101 -O0
+vAzmayesh_Dovvom_Without_En_vlg_check_tst
+!i10b 1
+Z14 !s100 z^IC5fAXG:<9O97BnZ`]G1
+Z15 I4`V4ZSjMDo_=N[:SBP[[j3
+Z16 V48L:[Dc4oRWcT1N9XfN6G3
+R4
+Z17 w1780381795
+Z18 8Azmayesh_Dovvom_Without_En.vt
+Z19 FAzmayesh_Dovvom_Without_En.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z20 !s108 1780381796.579000
+Z21 !s107 Azmayesh_Dovvom_Without_En.vt|
+Z22 !s90 -work|work|Azmayesh_Dovvom_Without_En.vt|
+!s101 -O0
+R10
+Z23 n@azmayesh_@dovvom_@without_@en_vlg_check_tst
+vAzmayesh_Dovvom_Without_En_vlg_sample_tst
+!i10b 1
+Z24 !s100 L`_QS8n:Mjcl[7]z>jfMT3
+Z25 IcT_2GkSak?Xc1<<8I=6JE3
+Z26 V9[[BWnT4AWA2@E8MF<^j^0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@azmayesh_@dovvom_@without_@en_vlg_sample_tst
+vAzmayesh_Dovvom_Without_En_vlg_vec_tst
+!i10b 1
+!s100 S9[>LdNicS2ZLm[z0olDj3
+Iae2DAPLUZz9L?9cnWa0o20
+Z28 Vo;0=cHchceXC?;gE:OGVn0
+R4
+R17
+R18
+R19
+Z29 L0 162
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@azmayesh_@dovvom_@without_@en_vlg_vec_tst
